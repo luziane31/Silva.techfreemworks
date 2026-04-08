@@ -1,1 +1,10 @@
-
+{
+  "project": "Silva-Tech Framework",
+  "version": "15.1",
+  "author": "Luziane Aparecida Silva",
+  "constants": {
+    "a0": 1.732e-3,
+    "f0": 27632200,
+    "geometry": "S3"
+  }
+}
