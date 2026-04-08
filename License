@@ -1,15 +1,48 @@
-MIT License
+================================================================================
+SILVA-TECH | PROPRIETARY & OPEN-SOURCE HYBRID LICENSE v1.0
+================================================================================
+Copyright (c) 2026 Silva-Tech | Dra. Tech (Luziane Aparecida da Silva)
+All rights reserved.
 
-Copyright (c) 2026 Luziane Aparecida Silva
+1. OWNERSHIP AND INTELLECTUAL PROPERTY
+--------------------------------------
+This Software, including all source code, modular architectures (IACA-CORE), 
+mathematical derivations (Silva-Tech Vacuum Density), and documentation, 
+is the exclusive intellectual property of Luziane Aparecida da Silva, 
+operating under the technological entity SILVA-TECH.
 
+2. PERMISSIONS
+--------------
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software"), to:
+- Use the Software for personal, educational, or commercial purposes.
+- Modify the Software for internal or public integration.
+- Distribute copies of the Software to third parties.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. MANDATORY CONDITIONS
+-----------------------
+Any use, modification, or distribution of the Software is subject to:
+- MANDATORY ATTRIBUTION: Original credit to the author (Luziane Aparecida da 
+  Silva / Dra. Tech) must be maintained in all copies and derivatives.
+- LICENSE PRESERVATION: This complete license notice must be included in all
+  substantial portions of the Software.
+- INTEGRITY: You may NOT claim original authorship or remove copyright headers.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+4. RESTRICTIONS
+---------------
+Unauthorized use, plagiarsm, or distribution of this code without the 
+inclusion of this LICENSE file will result in the immediate revocation of 
+usage rights and is subject to legal action under International Intellectual 
+Property Laws.
+
+5. DISCLAIMER
+-------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY 
+CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+================================================================================
+REGISTERED TRADEMARK: SILVA-TECH (TM) 2026
+CENTRAL ARCHITECTURE: IACA-CORE v5.1
+================================================================================
+
